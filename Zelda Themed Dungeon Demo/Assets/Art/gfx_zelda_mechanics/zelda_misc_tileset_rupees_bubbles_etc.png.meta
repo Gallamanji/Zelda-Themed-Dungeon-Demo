@@ -1,0 +1,1318 @@
+fileFormatVersion: 2
+guid: 655012c575009bd499457db5a58b2848
+timeCreated: 1555056574
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zelda_misc_tileset_rupees_bubbles_etc_0
+    21300002: zelda_misc_tileset_rupees_bubbles_etc_1
+    21300004: zelda_misc_tileset_rupees_bubbles_etc_2
+    21300006: zelda_misc_tileset_rupees_bubbles_etc_3
+    21300008: zelda_misc_tileset_rupees_bubbles_etc_4
+    21300010: zelda_misc_tileset_rupees_bubbles_etc_5
+    21300012: zelda_misc_tileset_rupees_bubbles_etc_6
+    21300014: zelda_misc_tileset_rupees_bubbles_etc_7
+    21300016: zelda_misc_tileset_rupees_bubbles_etc_8
+    21300018: zelda_misc_tileset_rupees_bubbles_etc_9
+    21300020: zelda_misc_tileset_rupees_bubbles_etc_10
+    21300022: zelda_misc_tileset_rupees_bubbles_etc_11
+    21300024: zelda_misc_tileset_rupees_bubbles_etc_12
+    21300026: zelda_misc_tileset_rupees_bubbles_etc_13
+    21300028: zelda_misc_tileset_rupees_bubbles_etc_14
+    21300030: zelda_misc_tileset_rupees_bubbles_etc_15
+    21300032: zelda_misc_tileset_rupees_bubbles_etc_16
+    21300034: zelda_misc_tileset_rupees_bubbles_etc_17
+    21300036: zelda_misc_tileset_rupees_bubbles_etc_18
+    21300038: zelda_misc_tileset_rupees_bubbles_etc_19
+    21300040: zelda_misc_tileset_rupees_bubbles_etc_20
+    21300042: zelda_misc_tileset_rupees_bubbles_etc_21
+    21300044: zelda_misc_tileset_rupees_bubbles_etc_22
+    21300046: zelda_misc_tileset_rupees_bubbles_etc_23
+    21300048: zelda_misc_tileset_rupees_bubbles_etc_24
+    21300050: zelda_misc_tileset_rupees_bubbles_etc_25
+    21300052: zelda_misc_tileset_rupees_bubbles_etc_26
+    21300054: zelda_misc_tileset_rupees_bubbles_etc_27
+    21300056: zelda_misc_tileset_rupees_bubbles_etc_28
+    21300058: zelda_misc_tileset_rupees_bubbles_etc_29
+    21300060: zelda_misc_tileset_rupees_bubbles_etc_30
+    21300062: zelda_misc_tileset_rupees_bubbles_etc_31
+    21300064: zelda_misc_tileset_rupees_bubbles_etc_32
+    21300066: zelda_misc_tileset_rupees_bubbles_etc_33
+    21300068: zelda_misc_tileset_rupees_bubbles_etc_34
+    21300070: zelda_misc_tileset_rupees_bubbles_etc_35
+    21300072: zelda_misc_tileset_rupees_bubbles_etc_36
+    21300074: zelda_misc_tileset_rupees_bubbles_etc_37
+    21300076: zelda_misc_tileset_rupees_bubbles_etc_38
+    21300078: zelda_misc_tileset_rupees_bubbles_etc_39
+    21300080: zelda_misc_tileset_rupees_bubbles_etc_40
+    21300082: zelda_misc_tileset_rupees_bubbles_etc_41
+    21300084: zelda_misc_tileset_rupees_bubbles_etc_42
+    21300086: zelda_misc_tileset_rupees_bubbles_etc_43
+    21300088: zelda_misc_tileset_rupees_bubbles_etc_44
+    21300090: zelda_misc_tileset_rupees_bubbles_etc_45
+    21300092: zelda_misc_tileset_rupees_bubbles_etc_46
+    21300094: zelda_misc_tileset_rupees_bubbles_etc_47
+    21300096: zelda_misc_tileset_rupees_bubbles_etc_48
+    21300098: zelda_misc_tileset_rupees_bubbles_etc_49
+    21300100: zelda_misc_tileset_rupees_bubbles_etc_50
+    21300102: zelda_misc_tileset_rupees_bubbles_etc_51
+    21300104: zelda_misc_tileset_rupees_bubbles_etc_52
+    21300106: zelda_misc_tileset_rupees_bubbles_etc_53
+    21300108: zelda_misc_tileset_rupees_bubbles_etc_54
+    21300110: zelda_misc_tileset_rupees_bubbles_etc_55
+    21300112: zelda_misc_tileset_rupees_bubbles_etc_56
+    21300114: zelda_misc_tileset_rupees_bubbles_etc_57
+    21300116: zelda_misc_tileset_rupees_bubbles_etc_58
+    21300118: zelda_misc_tileset_rupees_bubbles_etc_59
+    21300120: zelda_misc_tileset_rupees_bubbles_etc_60
+    21300122: zelda_misc_tileset_rupees_bubbles_etc_61
+    21300124: zelda_misc_tileset_rupees_bubbles_etc_62
+    21300126: zelda_misc_tileset_rupees_bubbles_etc_63
+    21300128: zelda_misc_tileset_rupees_bubbles_etc_64
+    21300130: zelda_misc_tileset_rupees_bubbles_etc_65
+    21300132: zelda_misc_tileset_rupees_bubbles_etc_66
+    21300134: zelda_misc_tileset_rupees_bubbles_etc_67
+    21300136: zelda_misc_tileset_rupees_bubbles_etc_68
+    21300138: zelda_misc_tileset_rupees_bubbles_etc_69
+    21300140: zelda_misc_tileset_rupees_bubbles_etc_70
+    21300142: zelda_misc_tileset_rupees_bubbles_etc_71
+    21300144: zelda_misc_tileset_rupees_bubbles_etc_72
+    21300146: zelda_misc_tileset_rupees_bubbles_etc_73
+    21300148: zelda_misc_tileset_rupees_bubbles_etc_74
+    21300150: zelda_misc_tileset_rupees_bubbles_etc_75
+    21300152: zelda_misc_tileset_rupees_bubbles_etc_76
+    21300154: zelda_misc_tileset_rupees_bubbles_etc_77
+    21300156: zelda_misc_tileset_rupees_bubbles_etc_78
+    21300158: zelda_misc_tileset_rupees_bubbles_etc_79
+    21300160: zelda_misc_tileset_rupees_bubbles_etc_80
+    21300162: zelda_misc_tileset_rupees_bubbles_etc_81
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 192
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 177
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 177
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 177
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 161
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 161
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_13
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 144
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 145
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 145
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 115
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 129
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 112
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 98
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_31
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 98
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 98
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 98
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 82
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_45
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_47
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_48
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_51
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 66
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_58
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_60
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_61
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_68
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_69
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zelda_misc_tileset_rupees_bubbles_etc_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

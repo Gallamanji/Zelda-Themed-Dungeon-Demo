@@ -1,0 +1,1813 @@
+fileFormatVersion: 2
+guid: b21edb710bf3e9f44a4935bac7d5985f
+timeCreated: 1554710602
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: link_sprites_0
+    21300002: link_sprites_1
+    21300004: link_sprites_2
+    21300006: link_sprites_3
+    21300008: link_sprites_4
+    21300010: link_sprites_5
+    21300012: link_sprites_6
+    21300014: link_sprites_7
+    21300016: link_sprites_8
+    21300018: link_sprites_9
+    21300020: link_sprites_10
+    21300022: link_sprites_11
+    21300024: link_sprites_12
+    21300026: link_sprites_13
+    21300028: link_sprites_14
+    21300030: link_sprites_15
+    21300032: link_sprites_16
+    21300034: link_sprites_17
+    21300036: link_sprites_18
+    21300038: link_sprites_19
+    21300040: link_sprites_20
+    21300042: link_sprites_21
+    21300044: link_sprites_22
+    21300046: link_sprites_23
+    21300048: link_sprites_24
+    21300050: link_sprites_25
+    21300052: link_sprites_26
+    21300054: link_sprites_27
+    21300056: link_sprites_28
+    21300058: link_sprites_29
+    21300060: link_sprites_30
+    21300062: link_sprites_31
+    21300064: link_sprites_32
+    21300066: link_sprites_33
+    21300068: link_sprites_34
+    21300070: link_sprites_35
+    21300072: link_sprites_36
+    21300074: link_sprites_37
+    21300076: link_sprites_38
+    21300078: link_sprites_39
+    21300080: link_sprites_40
+    21300082: link_sprites_41
+    21300084: link_sprites_42
+    21300086: link_sprites_43
+    21300088: link_sprites_44
+    21300090: link_sprites_45
+    21300092: link_sprites_46
+    21300094: link_sprites_47
+    21300096: link_sprites_48
+    21300098: link_sprites_49
+    21300100: link_sprites_50
+    21300102: link_sprites_51
+    21300104: link_sprites_52
+    21300106: link_sprites_53
+    21300108: link_sprites_54
+    21300110: link_sprites_55
+    21300112: link_sprites_56
+    21300114: link_sprites_57
+    21300116: link_sprites_58
+    21300118: link_sprites_59
+    21300120: link_sprites_60
+    21300122: link_sprites_61
+    21300124: link_sprites_62
+    21300126: link_sprites_63
+    21300128: link_sprites_64
+    21300130: link_sprites_65
+    21300132: link_sprites_66
+    21300134: link_sprites_67
+    21300136: link_sprites_68
+    21300138: link_sprites_69
+    21300140: link_sprites_70
+    21300142: link_sprites_71
+    21300144: link_sprites_72
+    21300146: link_sprites_73
+    21300148: link_sprites_74
+    21300150: link_sprites_75
+    21300152: link_sprites_76
+    21300154: link_sprites_77
+    21300156: link_sprites_78
+    21300158: link_sprites_79
+    21300160: link_sprites_80
+    21300162: link_sprites_81
+    21300164: link_sprites_82
+    21300166: link_sprites_83
+    21300168: link_sprites_84
+    21300170: link_sprites_85
+    21300172: link_sprites_86
+    21300174: link_sprites_87
+    21300176: link_sprites_88
+    21300178: link_sprites_89
+    21300180: link_sprites_90
+    21300182: link_sprites_91
+    21300184: link_sprites_92
+    21300186: link_sprites_93
+    21300188: link_sprites_94
+    21300190: link_sprites_95
+    21300192: link_sprites_96
+    21300194: link_sprites_97
+    21300196: link_sprites_98
+    21300198: link_sprites_99
+    21300200: link_sprites_100
+    21300202: link_sprites_101
+    21300204: link_sprites_102
+    21300206: link_sprites_103
+    21300208: link_sprites_104
+    21300210: link_sprites_105
+    21300212: link_sprites_106
+    21300214: link_sprites_107
+    21300216: link_sprites_108
+    21300218: link_sprites_109
+    21300220: link_sprites_110
+    21300222: link_sprites_111
+    21300224: link_sprites_112
+    21300226: link_sprites_113
+    21300228: link_sprites_114
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: link_sprites_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 488
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 489
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 489
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 491
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 491
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 459
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.49999934, y: 0.54701924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 459
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4914961, y: 0.543292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 459
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55915636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 458
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4914961, y: 0.5793686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 459
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.543292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 16
+        height: 25
+      alignment: 9
+      pivot: {x: 0.49708176, y: 0.5534708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 459
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 458
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 458
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 458
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_16
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 459
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 459
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 458
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 458
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 436
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 430
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 429
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 429
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 430
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.594767, y: 0.52578735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 430
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 429
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_28
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 429
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 429
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 429
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_31
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 429
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 429
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 20
+        height: 23
+      alignment: 9
+      pivot: {x: 0.64018726, y: 0.56415987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 398
+        width: 22
+        height: 24
+      alignment: 9
+      pivot: {x: 0.6348383, y: 0.5902532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_35
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 395
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5982933, y: 0.7369601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_36
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 395
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.59829295, y: 0.62778103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 396
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.42852893, y: 0.63374907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_38
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 397
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.37645388, y: 0.6051884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 401
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5067873, y: 0.71877885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_40
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 399
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: 0.48212773, y: 0.58391935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 398
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.72763646, y: 0.5536168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_42
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 400
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.7167014, y: 0.62891644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 400
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.76048934, y: 0.5847415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_44
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 395
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.57923824, y: 0.72074544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 399
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_46
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 377
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 368
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 369
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_55
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 368
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_56
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 368
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_57
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 369
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 369
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_59
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 368
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 368
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_62
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 340
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 339
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_64
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 339
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 339
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 339
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_67
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 339
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_68
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 339
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_69
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 339
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_70
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 339
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_71
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 339
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 316
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 22
+        height: 30
+      alignment: 9
+      pivot: {x: 0.32764703, y: 0.40248412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 303
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.37018538, y: 0.39889702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_75
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 303
+        width: 24
+        height: 35
+      alignment: 9
+      pivot: {x: 0.35661379, y: 0.44485298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 303
+        width: 26
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4743033, y: 0.42705077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 303
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.65455914, y: 0.49353725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 309
+        width: 18
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5244412, y: 0.56886095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 308
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.33967474, y: 0.5499509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_80
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 310
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3289903, y: 0.57803637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_81
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 310
+        width: 28
+        height: 21
+      alignment: 9
+      pivot: {x: 0.30065265, y: 0.5754191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_82
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 305
+        width: 23
+        height: 31
+      alignment: 9
+      pivot: {x: 0.38334987, y: 0.71303827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_83
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 309
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 255
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_85
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 255
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 283
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_88
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 279
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_89
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 275
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 279
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_91
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 277
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_92
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 277
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_93
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_94
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 257
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_95
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 253
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_96
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 257
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_97
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 256
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_98
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 246
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_99
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 249
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_100
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 243
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_101
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 246
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 219
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 220
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_105
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 219
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 220
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_107
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 216
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_108
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 219
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_109
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 216
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_110
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 213
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 215
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 219
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_113
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 218
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: link_sprites_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 215
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
